@@ -7,7 +7,7 @@
 //
 
 #import "ZYViewController.h"
-
+#import "ZYAlertView.h"
 @interface ZYViewController ()
 
 @end
@@ -17,6 +17,10 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    self.view.backgroundColor = [UIColor yellowColor];
+    ZYAlertView * alertV = [ZYAlertView new];
+    alertV.frame = CGRectMake(10, 100, 100, 100);
+    [self.view addSubview:alertV];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

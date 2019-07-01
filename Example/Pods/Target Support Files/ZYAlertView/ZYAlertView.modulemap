@@ -1,0 +1,6 @@
+framework module ZYAlertView {
+  umbrella header "ZYAlertView-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_ZYAlertView_Example {
+  umbrella header "Pods-ZYAlertView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
