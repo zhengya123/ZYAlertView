@@ -1,5 +1,5 @@
 PODS:
-  - ZYAlertView (0.1.0)
+  - ZYAlertView (0.1.1)
   - ZYImageModule (0.1.2)
 
 DEPENDENCIES:
@@ -15,7 +15,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ZYAlertView: 9c34f172430896141ea67bffd9d0281fa283f8c5
+  ZYAlertView: 4c09c0d7e1597e17757a37f3f837012c8089c2ff
   ZYImageModule: 1b6ecc6b417a661d9cfc49b57d3253e080dbc209
 
 PODFILE CHECKSUM: ba3f100c67ef01413e5041e097224241b42749d8
